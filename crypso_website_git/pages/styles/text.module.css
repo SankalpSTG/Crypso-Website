@@ -1,0 +1,945 @@
+.text33{
+    width: 336px;
+    padding: 20px;
+    text-align: left;
+    color: #0DB878;
+    font-family: MetropolisRegular;
+}
+.text1{
+    font-family: MetropolisBold;
+    margin-top: 12px;
+    font-size: 21px;
+    line-height: 32px;
+    color: #68656E;
+}
+.text2{
+    font-family: MetropolisBold;
+    font-size: 40px;
+    line-height: 72px;
+    color: #060014;
+}
+.text3{
+    font-family: MetropolisBold;
+    font-size: 70px;
+    margin-top: -34px;
+    line-height: 120px;
+    color: #5E23DC;
+}
+.text4, .text7, .text9, .text11{
+    position: relative;
+    text-align: center;
+    width: 100%;
+    margin: 0px auto;
+    letter-spacing: 0.04em;
+    font-family: MetropolisBold;
+    font-size: 21px;
+    line-height: 31.5px;
+    color: #5E23DC;
+}
+.text5, .text8, .text10, .text12{
+    position: relative;
+    text-align: center;
+    width: 100%;
+    margin: 0px auto;
+    font-family: MetropolisBold;
+    font-size: 40px;
+    line-height: 60px;
+    letter-spacing: 0.01em;
+    color: #060014;
+}
+.text6{
+    font-size: 20px;
+    line-height: 20px;
+    margin: 0px auto;
+    padding: 0px;
+    font-family: MetropolisRegular;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+.text13{
+    font-size: 40px;
+    line-height: 48px;
+    color: #FAF9FC;
+    font-family: MetropolisBold;
+}
+.text14{
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+    color: #FAF9FC;
+    font-family: MetropolisRegular;
+    font-weight: 500;
+}
+.text15{
+    font-family: MetropolisRegular;
+    display: inline;
+    color: #FFFFFF;
+    font-size: 14px;
+    padding: 0px 12px 0px 12px;
+}
+.text16{
+    font-family: MetropolisRegular;
+    margin-top: 8px;
+    font-size: 18px;
+    line-height: 32px;
+    color: #5E23DC;
+}
+.text17{
+    font-family: MetropolisSemiBold;
+    font-size: 18px;
+    line-height: 32px;
+    color: #5E23DC;
+}
+.text18{
+    font-size: 20px;
+    margin: 0px auto;
+    width: unset;
+    padding: 0px;
+    font-family: MetropolisRegular;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+.text19{
+    text-align: center;
+    width: 100%;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 0px;
+    font-family: OpenSansRegular;
+    margin: 0px auto;
+    color: #5E23DC;
+}
+.text20{
+    font-size: 14px;
+    line-height: 20px;
+    color: #5E23DC;
+    font-family: OpenSansBold;
+}
+.text21{
+    position: relative;
+    width: 100%;
+    font-family: MetropolisBold;
+    font-size: 52px;
+    text-align: center;
+    color: #5E23DC;
+}
+.text22{
+    margin: 0px auto;
+    font-family: MetropolisMedium;
+    font-size: 20px;
+    line-height: 30px;
+    color: #24202B;
+}
+.text31{
+    font-family: MetropolisLight;
+    font-size: 18px;
+    color: black;
+    padding-bottom: 12px;
+}
+.text23{
+    font-family: MetropolisSemiBold;
+    font-size: 18px;
+    color: black;
+}
+.text24{
+    font-family: MetropolisSemiBold;
+    font-size: 35px;
+    line-height: 52.5px;
+    color: #5E23DC;
+}
+.text25{
+    font-family: MetropolisThin;
+    font-size: 21px;
+    color: #68656E;
+}
+.text26{
+    font-family: MetropolisBold;
+    font-style: normal;
+    font-size: 40px;
+    line-height: 48px;
+    margin: 0px;
+    color: white;
+}
+.text27{
+    font-family: MetropolisBold;
+    font-style: normal;
+    font-size: 29px;
+    line-height: 24px;
+    margin: 0px;
+    color: white;
+}
+.text29{
+    font-size: 24px;
+    font-family: MetropolisSemiBold;
+}
+.text30{
+    font-size: 18px;
+}
+.mobile_modal_play_store_icon{
+    height: 22px;
+    margin-right: 12px;
+    display: none;
+}
+.text32{
+    font-family: MetropolisRegular;
+    text-align: right;
+    min-width: 40px;
+    padding: 0px 8px;
+    color: #251144;
+}
+.text35{
+    font-family: Arial;
+    font-weight: 700;
+}
+.text36{
+    font-family: Arial;
+}
+.text34{
+    font-size: 20px;
+    line-height: 24px;
+    font-family: MetropolisMedium;
+    color: #7846E3;
+}
+.text38{
+    text-align: left;
+    width: 100%;
+    max-width: 300px;
+    color: #060014;
+    font-family: MetropolisBold;
+    font-size: 30px;
+    line-height: 45px;
+    text-transform: capitalize;
+}
+.text39{
+    text-align: left;
+    width: 100%;
+    font-family: MetropolisThin;
+    font-size: 18px;
+    line-height: 27px;
+    color: #68656E;
+}
+.text37{
+    margin: 0px;
+    padding: 0px;
+    font-size: 21px;
+    color: white;
+    font-family: MetropolisSemiBold;
+}
+.text40{
+    font-family: MetropolisBold;
+    font-size: 40px;
+    line-height: 40px;
+    color: #5E23DC;
+    margin: 0px;
+}
+.text41{
+    font-family: MetropolisBold;
+    font-size: 21px;
+    color: #060014;
+    margin: 0px;
+}
+.text42{
+    font-family: MetropolisRegular;
+    font-size: 18px;
+    color: #68656E;
+    margin: 0px;
+}
+.text46{
+    font-family: MetropolisBold;
+    font-size: 32px;
+    color: #2A2B40;
+}
+.text47{
+    font-family: MetropolisRegular;
+    font-size: 18px;
+    color: #312D52;
+}
+.text48{
+    position: relative;
+    text-align: center;
+    padding-top: 28px;
+    font-size: 20px;
+    line-height: 30px;
+    font-family: MetropolisSemiBold;
+}
+.text49{
+    font-size: 21px;
+    font-family: MetropolisBold;
+    line-height: 30px;
+    color: #251144;
+    margin: 0px;
+}
+.text50{
+    font-family: MetropolisSemiBold;
+    font-size: 18px;
+    line-height: 27px;
+    margin: 4px 0px 28px 0px;
+    color: #C1BEC6;
+}
+.text51{
+    width: 100%;
+    text-align: center;
+    font-family: MetropolisMedium;
+    font-size: 14px;
+    color: white;
+    cursor: pointer;
+}
+.text28{
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0.04em;
+    font-family: MetropolisSemiBold;
+    color: white;
+}
+.text43{
+    position: relative;
+    text-align: left;
+    font-size: 24px;
+    line-height: 36px;
+    font-family: MetropolisSemiBold;
+}
+.text44{
+    display: inline-block;
+    font-family: MetropolisSemiBold;
+    font-size: 20px;
+    line-height: 30px;
+}
+.text45{
+    font-size: 14px;
+    line-height: 21px;
+    max-width: 150px;
+    color: #68656E;
+    font-family: MetropolisLight;
+}
+@media screen and (max-width: 1460px){
+    
+}
+@media screen and (max-width: 1440px){
+    .text4{
+        font-size: 19px;
+        line-height: 30px;
+    }
+    .text1{
+        font-size: 19px;
+        margin-top: 0px;
+    }
+    .text7, .text9, .text11, .text25, .text41, .text49{
+        font-size: 19px;
+    }
+    .text2{
+        font-size: 36px;
+    }
+    .text3{
+        font-size: 63px;
+    }
+    .text5{
+        font-size: 36px;
+        line-height: 54px;
+    }
+    .text8, .text10, .text12, .text40{
+        font-size: 36px;
+    }
+    .text6, .text18, .text48{
+        font-size: 18px;
+    }
+    .text13, .text26{
+        font-size: 36px;
+    }
+    .text14, .text16, .text17, .text22, .text31, .text23, .text39, .input_email_id, .text42, .text47, .text50{
+        font-size: 16px;
+    }
+    .text15{
+        font-size: 13px;
+    }
+    .text19, .text20{
+        font-size: 13px;
+    }
+    .text21{
+        font-size: 47px;
+    }
+    .text24{
+        font-size: 32px;
+    }
+    .text27{
+        font-size: 26px;
+    }
+    .text46{
+        font-size: 29px;
+    }
+    .text38{
+        font-size: 27px;
+    }
+}
+@media screen and (max-width: 1366px) {
+    .text4{
+        font-size: 18px;
+        line-height: 27px;
+    }
+    .text1, .text7, .text9, .text11, .text25, .text41, .text49{
+        font-size: 18px;
+    }
+    .text2{
+        font-size: 34px;
+    }
+    .text3{
+        font-size: 60px;
+    }
+    .text5{
+        font-size: 34px;
+        line-height: 51px;
+    }
+    /*Everything Crypto, Under One Roof (40px)*/
+    .text8, .text10, .text12, .text40{
+        font-size: 34px;
+    }
+    /*Get Early Access*/
+    .text6, .text18, .text48{
+        font-size: 17px;
+    }
+    /*Download our Mobile app ->in footer (48px)*/
+    .text13, .text26{
+        font-size: 34px;
+    }
+    /*you will receive a download link on -> modal (18px)*/
+    .text14, .text16, .text17, .text22, .text31, .text23, .text39, .input_email_id, .text42, .text47, .text50{
+        font-size: 15px;
+    }
+    /* Copyright */
+    .text15{
+        font-size: 12px;
+    }
+    /*worth rewards for the first 2000 users (14px)*/
+    .text19, .text20{
+        font-size: 12px;
+    }
+    /*Thank You! -> modal (52px)*/
+    .text21{
+        font-size: 44px;
+    }
+    /*Exciting Card Header -> modal (48px)*/
+    .text24{
+        font-size: 30px;
+    }
+    /* #TradeCryptoTogether (29px)*/
+    .text27{
+        font-size: 25px;
+    }
+    .text46{
+        font-size: 27px;
+    }
+    .text38{
+        font-size: 26px;
+    }
+}
+@media screen and (max-width: 1292px) {
+    .text37{
+        font-size: 17px;
+    }
+    .text4{
+        font-size: 17px;
+        line-height: 25px;
+    }
+    /*Want to know all about Crypto? (21px)*/
+    .text7, .text9, .text11, .text25, .text41{
+        font-size: 17px;
+    }
+    .text1{
+        font-size: 17px;
+        line-height: 25px;
+    }
+    .text49{
+        font-size: 17px;
+        line-height: 24px;
+    }
+    /*Ride the crypto revolution with (40px)*/
+    .text2{
+        font-size: 32px;
+        line-height: 56px;
+    }
+    /*experts (70px)*/
+    .text3{
+        font-size: 56px;
+        line-height: 95px;
+        margin-top: -27px;
+    }
+    .text5{
+        font-size: 32px;
+        line-height: 48px;
+    }
+    /*Everything Crypto, Under One Roof (40px)*/
+    .text8, .text10, .text12, .text40{
+        font-size: 32px;
+    }
+    /*Get Early Access (20px)*/
+    .text18, .text48{
+        font-size: 16px;
+    }
+    .text6{
+        font-size: 16px;
+        line-height: 16px;
+    }
+    /*Download our Mobile app ->in footer (40px)*/
+    .text13, .text26{
+        font-size: 32px;
+    }
+    /*you will receive a download link on -> modal (18px)*/
+    .text14, .text16, .text17, .text22, .text31, .text23, .text39, .text42, .text47{
+        font-size: 14px;
+    }
+    .text50{
+        font-size: 14px;
+        line-height: 21px;
+        margin: 4px 0px 22px 0px;
+    }
+    /* Copyright */
+    .text15{
+        font-size: 11px;
+    }
+    /*worth rewards for the first 2000 users (14px)*/
+    .text19, .text20{
+        font-size: 11px;
+    }
+    /*Thank You! -> modal (52px)*/
+    .text21{
+        font-size: 41px;
+    }
+    /*Exciting Card Header -> modal (48px)*/
+    .text24{
+        font-size: 30px;
+        line-height: 41px;
+    }
+    /* #TradeCryptoTogether (29px)*/
+    .text27{
+        font-size: 25px;
+    }
+    .text46{
+        font-size: 27px;
+    }
+    .text38{
+        font-size: 26px;
+    }
+}
+@media screen and (max-width: 1200px){
+    .text37{
+        font-size: 15px;
+    }
+    .text4{
+        font-size: 15px;
+        line-height: 23px;
+    }
+    /*Want to know all about Crypto? (21px)*/
+    .text7, .text9, .text11, .text25, .text41{
+        font-size: 15px;
+    }
+    .text1{
+        margin-top: 43px;
+        font-size: 15px;
+        line-height: 23px;
+    }
+    .text49{
+        font-size: 15px;
+        line-height: 21px;
+    }
+    /*Ride the crypto revolution with (40px)*/
+    .text2{
+        font-size: 29px;
+        line-height: 51px;
+    }
+    /*experts (70px)*/
+    .text3{
+        font-size: 50px;
+        line-height: 86px;
+        margin-top: -24px;
+    }
+    .text5{
+        font-size: 29px;
+        line-height: 43px;
+    }
+    /*Everything Crypto, Under One Roof (40px)*/
+    .text8, .text10, .text12, .text40{
+        font-size: 29px;
+    }
+    /*Get Early Access (20px)*/
+    .text18, .text48{
+        font-size: 14px;
+    }
+    .text6{
+        font-size: 14px;
+        line-height: 14px;
+    }
+    /*Download our Mobile app ->in footer (40px)*/
+    .text13, .text26{
+        font-size: 29px;
+    }
+    /*you will receive a download link on -> modal (18px)*/
+    .text14, .text16, .text17, .text22, .text31, .text23, .text39, .input_email_id, .text42, .text47{
+        font-size: 13px;
+    }
+    .text50{
+        font-size: 13px;
+        line-height: 19px;
+        margin: 4px 0px 20px 0px;
+    }
+    /* Copyright */
+    .text15{
+        font-size: 10px;
+    }
+    /*worth rewards for the first 2000 users (14px)*/
+    .text19, .text20{
+        font-size: 10px;
+    }
+    /*Thank You! -> modal (52px)*/
+    .text21{
+        font-size: 37px;
+    }
+    /*Exciting Card Header -> modal (48px)*/
+    .text24{
+        font-size: 25px;
+        line-height: 37px;
+    }
+    /* #TradeCryptoTogether (29px)*/
+    .text27{
+        font-size: 21px;
+    }
+    .text46{
+        font-size: 23px;
+    }
+    .text38{
+        font-size: 21px;
+        line-height: 32px;
+    }
+}
+@media screen and (max-width: 1080px){
+    .text4{
+        font-size: 14px;
+        line-height: 21px;
+    }
+    /*Want to know all about Crypto? (21px)*/
+    .text7, .text9, .text11, .text25, .text41{
+        font-size: 14px;
+    }
+    .text1{
+        margin-top: 39px;
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .text49{
+        font-size: 14px;
+        line-height: 20px;
+    }
+    /*Ride the crypto revolution with (40px)*/
+    .text2{
+        font-size: 26px;
+        line-height: 47px;
+    }
+    /*experts (70px)*/
+    .text3{
+        font-size: 46px;
+        line-height: 79px;
+        margin-top: -22px;
+    }
+    .text5{
+        font-size: 26px;
+        line-height: 39px;
+    }
+    /*Everything Crypto, Under One Roof (40px)*/
+    .text8, .text10, .text12, .text40{
+        font-size: 26px;
+    }
+    /*Get Early Access (20px)*/
+    .text18, .text48{
+        font-size: 13px;
+    }
+    .text6{
+        font-size: 13px;
+        line-height: 13px;
+    }
+    /*Download our Mobile app ->in footer (40px)*/
+    .text13, .text26{
+        font-size: 26px;
+    }
+    /*you will receive a download link on -> modal (18px)*/
+    .text14, .text16, .text17, .text22, .text31, .text23, .text39, .input_email_id, .text42, .text47{
+        font-size: 12px;
+    }
+    .text50{
+        font-size: 12px;
+        line-height: 17px;
+        margin: 4px 0px 18px 0px;
+    }
+    /* Copyright */
+    .text15{
+        font-size: 10px;
+    }
+    /*worth rewards for the first 2000 users (14px)*/
+    .text19, .text20{
+        font-size: 10px;
+    }
+    /*Thank You! -> modal (52px)*/
+    .text21{
+        font-size: 34px;
+    }
+    /*Exciting Card Header -> modal (48px)*/
+    .text24{
+        font-size: 23px;
+        line-height: 33px;
+    }
+    /* #TradeCryptoTogether (29px)*/
+    .text27{
+        font-size: 19px;
+    }
+    .text46{
+        font-size: 21px;
+    }
+}
+@media screen and (max-width: 992px) {
+    .text38{
+        font-size: 18px;
+        line-height: 27px;
+    }
+    .text39{
+        font-size: 14px;
+        line-height: 21px;
+        font-family: MetropolisLight;
+        color: #68656E;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .text37{
+        font-size: 14px;
+        font-family: MetropolisMedium;
+    }
+    .text1{
+        margin-top: 0px;
+        font-size: 16px;
+        font-family: MetropolisMedium;
+        line-height: 24px;
+        color: #68656E;
+    }
+    .text2{
+        font-size: 24px;
+        line-height: 24px;
+    }
+    .text3{
+        margin: 0px;
+        font-size: 36px;
+        line-height: 36px;
+    }
+    .text4{
+        font-size: 12px;
+        line-height: 18px;
+        text-align: left;
+    }
+    .text5{
+        font-size: 24px;
+        line-height: 36px;
+        text-align: left;
+    }
+    .text6{
+        font-size: 11px;
+    }
+    .text7{
+        display: none;
+    }
+    .text8{
+        display: none;
+    }
+    .text9{
+        display: none;
+    }
+    .text10{
+        display: none;
+    }
+    .text11{
+        font-size: 12px;
+        line-height: 18px;
+        text-align: left;
+    }
+    .text12{
+        font-size: 24px;
+        line-height: 36px;
+        text-align: left;
+    }
+    .text14{
+        font-size: 11px;
+    }
+    .text15{
+        font-size: 11px;
+    }
+    .text16{
+        display: none;
+    }
+    .text17{
+        font-size: 11px;
+    }
+    .text18{
+        color: #5E23DC;
+        font-size: 12px;
+    }
+    .text19{
+        font-size: 12px;
+    }
+    .text20{
+        font-size: 12px;
+    }
+    .text21{
+        font-size: 32px;
+        color: black;
+    }
+    .text22{
+        font-size: 16px;
+        line-height: 24px;
+        font-family: MetropolisLight;
+    }
+    .text23{
+        font-size: 16px;
+        line-height: 24px;
+        font-family: MetropolisRegular;
+    }
+    .text25{
+        font-size: 12px;
+    }
+    .text51{
+        color: rgba(255, 255, 255, 0.65);
+    }
+    .text14{
+        font-family: MetropolisRegular;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 30px;
+        text-align: center;
+        max-width: 90%;
+        margin: 0px auto;
+    }
+    .text13{
+        font-family: MetropolisSemiBold;
+        font-size: 36px;
+        line-height: 44px;
+        text-align: center;
+    }
+    .text24{
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .text51{
+        font-size: 11px;
+        padding: 24px 0px 0px 0px;
+    }
+    .text40{
+        font-size: 20px;
+        line-height: 20px;
+        font-family: MetropolisSemiBold;
+        letter-spacing: 0.01em;
+        color: white;
+    }
+    .text41{
+        font-size: 14px;
+        line-height: 18px;
+        color: #FAF9FC;
+        font-family: MetropolisLight;
+    }
+    .text42{
+        font-size: 13px;
+    }
+    .text48{
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .text49{
+        font-size: 16px;
+        margin: 0px;
+    }
+    .text50{
+        margin: 4px 0px 12px 0px;
+    }
+    .text46{
+        font-size: 18px;
+    }
+    .text47{
+        font-size: 13px;
+    }
+    .text31{
+        font-size: 16px;
+        text-align: left;
+        padding: 0px 16px 8px 16px;
+    }
+    .text29{
+        font-size: 18px;
+        display: block;
+    }
+    .text30{
+        font-size: 15px;
+    }
+    .text32{
+        font-size: 12px;
+    }
+    .text33{
+        width: 260px;
+    }
+    .text34{
+        font-size: 16px;
+    }
+}
+@media screen and (max-width: 410px){
+    .text1{
+        font-size: 14px;
+    }
+    .text2{
+        font-size: 21px;
+    }
+    .text3{
+        font-size: 32px;
+    }
+    .text4{
+        font-size: 11px;
+    }
+    .text5{
+        font-size: 21px;
+    }
+    .text6{
+        font-size: 10px;
+    }
+    .text11{
+        font-size: 11px;
+    }
+    .text12{
+        font-size: 21px;
+    }
+    .text14{
+        font-size: 14px;
+    }
+    .text13{
+        font-size: 32px;
+    }
+    .text15{
+        font-size: 10px;
+    }
+    .text17{
+        font-size: 10px;
+    }
+    .text18{
+        font-size: 11px;
+    }
+    .text19{
+        font-size: 11px;
+    }
+    .text20{
+        font-size: 11px;
+    }
+    .text21{
+        font-size: 28px;
+    }
+    .text22{
+        font-size: 14px;
+    }
+    .text23{
+        font-size: 14px;
+    }
+    .text24{
+        font-size: 12px;
+    }
+    .text25{
+        font-size: 12px;
+    }
+}

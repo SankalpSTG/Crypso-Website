@@ -1,0 +1,244 @@
+
+.absolute_background_1{
+    position: absolute;
+    top: -60px;
+    z-index: -1;
+    width: 100%;
+    height: 570px;
+    background: url("../assets/crypto_saturn.png");
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+}
+.absolute_background_2{
+    position: absolute;
+    top: 0px;
+    z-index: -1;
+    width: 100%;
+    height: 930px;
+    top: 140px;
+    aspect-ratio: 975/911;
+    background: url("../assets/background_shapeless.png");
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+.absolute_background_3{
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+    height: 400px;
+    background: url("../assets/background_3.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+.absolute_background_4{
+    position: absolute;
+    z-index: -1;
+    width: 360px;
+    height: 360px;
+    top: 412px;
+    background: url("../assets/abs_2.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    left: 428px;
+}
+.absolute_background_5{
+    position: absolute;
+    top: 1048px;
+    z-index: -1;
+    width: 100%;
+    height: 600px;
+    background: url("../assets/abs_3.png");
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+.absolute_background_6{
+    position: absolute;
+    top: 3540px;
+    z-index: -1;
+    width: 100%;
+    height: 600px;
+    background: url("../assets/abs_4.png");
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position-x: left;
+}
+.absolute_background_7{
+    position: absolute;
+    top: 4380px;
+    z-index: -1;
+    width: 100%;
+    height: 600px;
+    background: url("../assets/abs_5.png");
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+.absolute_background_8{
+    position: absolute;
+    top: 3960px;
+    z-index: -1;
+    width: 100%;
+    display: none;
+    height: 600px;
+    background: url("../assets/abs_6.png");
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position-x: left;
+}
+.absolute_background_9{
+    position: absolute;
+    top: 5000px;
+    z-index: -1;
+    width: 100%;
+    display: none;
+    height: 600px;
+    background: url("../assets/abs_7.png");
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    left: 500px;
+}
+.absolute_background_10{
+    position: absolute;
+    width: 100%;
+    height: 3314px;
+    background: linear-gradient(180deg, #E6D6FF 3.47%, rgba(248, 244, 254, 0) 100%);
+    transform: rotate(-180deg);
+    z-index: -1;
+}
+.absolute_background_11{
+    position: absolute;
+    top: -272px;
+    z-index: 0;
+    width: 1084px;
+    right: 0px;
+    height: 1084px;
+    background: url("../assets/abs_8.png");
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+}
+@media screen and (max-width: 1460px){
+    
+}
+@media screen and (max-width: 1440px){
+    .absolute_background_1{
+        height: 515px;
+        top: -50px;
+    }
+    .absolute_background_2{
+        height: 840px;
+        top: 140px;
+    }
+    .absolute_background_4{
+
+    }
+}
+@media screen and (max-width: 1366px) {
+    
+}
+@media screen and (max-width: 1292px) {
+    .absolute_background_11{
+        top: -220px;
+        width: 860px;
+        height: 860px;
+    }
+    .absolute_background_1{
+        height: 500px;
+    }
+    .absolute_background_2{
+        height: 600px;
+    }
+    .absolute_background_3{
+        top: 920px;
+    }
+    .absolute_background_4{
+        top: 340px;
+    }
+}
+@media screen and (max-width: 1200px){
+    .absolute_background_11{
+        top: -190px;
+        width: 774px;
+        height: 774px;
+    }
+    .absolute_background_1{
+        height: 500px;
+    }
+    .absolute_background_2{
+        height: 600px;
+    }
+    .absolute_background_3{
+        top: 920px;
+    }
+    .absolute_background_4{
+        top: 340px;
+    }
+}
+@media screen and (max-width: 1080px){
+    .absolute_background_11{
+        top: -175px;
+        width: 711px;
+        height: 711px;
+    }
+}
+@media screen and (max-width: 992px) {
+    
+}
+
+@media screen and (max-width: 576px) {
+    .absolute_background_11{
+        display: none;
+    }
+    .absolute_background_1{
+        width: 190px;
+        height: 190px;
+    }
+    .absolute_background_2{
+        display: none;
+    }
+    .absolute_background_3{
+        top: 800px;
+        height: 241px;
+    }
+    .absolute_background_4{
+        top: 320px;
+        left: unset;
+        right: -28px;
+        width: 166px;
+        height: 166px;
+    }
+    .absolute_background_5{
+        height: 166px;
+        top: 760px;
+    }
+    .absolute_background_6{
+        height: 190px;
+        top: 2320px;
+    }
+    .absolute_background_7{
+        top: 3452px;
+        width: 100%;
+        height: 190px;
+        display: none;
+    }
+    .absolute_background_8{
+        top: 4480px;
+        width: 100%;
+        height: 190px;
+        display: none;
+    }
+    .absolute_background_9{
+        display: none;
+    }
+    .absolute_background_10{
+
+    }
+    .absolute_background_11{
+        display: none;        
+    }
+}
+@media screen and (max-width: 410px){
+    
+}

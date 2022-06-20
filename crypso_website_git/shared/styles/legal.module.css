@@ -1,0 +1,22 @@
+.super_title{
+    font-size: 36px;
+}
+.content_text{
+    position: relative;
+    text-align: justify;
+    width: 100%;
+    font-size: 16px;
+    margin: 10px auto;
+}
+.tnc_wrapper, .pp_wrapper{
+    position: relative;
+    text-align: center;
+    padding: 40px;
+}
+.tnc_container, .pp_container{
+    position: relative;
+    text-align: justify;
+    width: 100%;
+    box-shadow: 4px 4px 10px #212121;
+    padding: 20px;
+}

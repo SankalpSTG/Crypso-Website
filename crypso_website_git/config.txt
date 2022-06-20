@@ -1,0 +1,3 @@
+ScriptID=1cccQiUwJrKDt7BDrcFSFJsfnCSUvovzDU8ARYfuH0Ag2CPf2lPN6HFH9
+DeploymentID=AKfycbwmBRAdPpY0IcW1Q30_-5NDEpOH5NXk55g82j5w5YQ-O9uJwf0ySQAwTYXRTtRMtf7U
+DeploymentURL=https://script.google.com/macros/s/AKfycbwmBRAdPpY0IcW1Q30_-5NDEpOH5NXk55g82j5w5YQ-O9uJwf0ySQAwTYXRTtRMtf7U/exec

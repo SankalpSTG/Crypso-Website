@@ -1,0 +1,831 @@
+@media screen and (max-width: 1200px) {
+    .absolute_background_1{
+        height: 540px;
+    }
+    .absolute_background_2{
+        height: 576px;
+    }
+    .features_table_center_column{
+        width: 180px;
+    }
+    /*Want to know all about Crypto? (22px)*/
+    .text1, .text4, .text6, .text7, .text11, .text14, .text15, .text16, .text17, .text18{
+        font-size: 16px;
+    }
+    /*Ride the crypto revolution with (48px)*/
+    .text2{
+        font-size: 34px;
+        font-family: PoppinsBold;
+    }
+    /*experts (80px)*/
+    .text3{
+        font-size: 57px;
+    }
+    /*Everything Crypto, Under One Roof (54px)*/
+    .text5, .text8, .text10, .text12{
+        font-size: 39px;
+    }
+    /*Download our Mobile app ->in footer (48px)*/
+    .text13{
+        font-size: 34px;
+    }
+    /*worth rewards for the first 2000 users (14px)*/
+    .text19, .text20{
+        font-size: 10px;
+    }
+    /*Thank You! -> modal (48px)*/
+    .text21{
+        font-size: 38px;
+    }
+    /*you will receive a download link on -> modal (18px)*/
+    .text22, .text23{
+        font-size: 16px;
+    }
+    /*Exciting Card Header -> modal (48px)*/
+    .text24{
+        font-size: 34px;
+    }
+    /*Exciting Card Description (24px)*/
+    .text25{
+        font-size: 17px;
+    }
+    /*(20px 20px 20px 40px)*/
+    .exciting_card_image_container{
+        padding: 14px 14px 14px 28px;
+    }
+    /*(20px 40px 20px 20px)*/
+    .exciting_card_content{
+        padding: 14px 28px 14px 14px;
+    }
+    /*Crypso Mobile Image*/
+    .footer_preview_image{
+        width: 106%;
+        top: -56px;
+        right: 80px;
+    }
+}
+@media screen and (max-width: 1080px) {
+    /*Want to know all about Crypto? (22px)*/
+    .text1, .text4, .text6, .text7, .text11, .text14, .text15, .text16, .text17, .text18{
+        font-size: 14px;
+    }
+    /*Ride the crypto revolution with (48px)*/
+    .text2{
+        font-size: 31px;
+        font-family: PoppinsBold;
+    }
+    /*experts (80px)*/
+    .text3{
+        font-size: 52px;
+    }
+    /*Everything Crypto, Under One Roof (54px)*/
+    .text5, .text8, .text10, .text12{
+        font-size: 35px;
+    }
+    /*Download our Mobile app ->in footer (48px)*/
+    .text13{
+        font-size: 31px;
+    }
+    /*worth rewards for the first 2000 users (14px)*/
+    .text19, .text20{
+        font-size: 9px;
+    }
+    /*Thank You! -> modal (48px)*/
+    .text21{
+        font-size: 32px;
+    }
+    /*you will receive a download link on -> modal (18px)*/
+    .text22, .text23{
+        font-size: 16px;
+    }
+    /*Exciting Card Header -> modal (48px)*/
+    .text24{
+        font-size: 31px;
+    }
+    /*Exciting Card Description (24px)*/
+    .text25{
+        font-size: 16px;
+    }
+    /*(20px 20px 20px 40px)*/
+    .exciting_card_image_container{
+        padding: 13px 13px 13px 26px;
+    }
+    /*Exciting Card Image (108px)*/
+    .exciting_card_image{
+        width: 71px;
+    }
+    /*(20px 40px 20px 20px)*/
+    .exciting_card_content{
+        padding: 13px 26px 13px 13px;
+    }
+    /*Crypso Mobile Image*/
+    .footer_preview_image{
+        width: 90%;
+        top: 0px;
+        right: 80px;
+    }
+}
+@media screen and (max-width: 992px) {
+    .absolute_background_1{
+        height: 480px;
+    }
+    .absolute_background_2{
+        height: 480px;
+    }
+    .absolute_background_4{
+        left: 320px;
+    }
+    .features_table{
+        display: none;
+    }
+    .features_grid_container{
+        display: unset;
+    }
+    .input_country_flag{
+        width: 42px;
+    }
+    .input_country_code{
+        width: 48px;
+    }
+    .button_mobile_number{
+        padding: 0px 6px 0px 6px;
+    }
+    .input_email_id{
+        width: 180px;
+    }
+    .input_email_id_footer{
+        width: 180px;
+    }
+    .text17{
+        display: inline;
+    }
+    .carousel_wrapper{
+        display: block;
+    }
+    /*Want to know all about Crypto? (22px)*/
+    .text1, .text4, .text6, .text7, .text11, .text14, .text15, .text16, .text17, .text18{
+        font-size: 11px;
+    }
+    /*Ride the crypto revolution with (48px)*/
+    .text2{
+        font-size: 24px;
+        font-family: PoppinsBold;
+    }
+    /*experts (80px)*/
+    .text3{
+        font-size: 41px;
+    }
+    /*Everything Crypto, Under One Roof (54px)*/
+    .text5, .text8, .text10, .text12{
+        font-size: 27px;
+    }
+    /*Download our Mobile app ->in footer (48px)*/
+    .text13{
+        font-size: 24px;
+    }
+    /*worth rewards for the first 2000 users (14px)*/
+    .text19, .text20{
+        font-size: 7px;
+    }
+    /*Thank You! -> modal (48px)*/
+    .text21{
+        font-size: 32px;
+    }
+    /*you will receive a download link on -> modal (18px)*/
+    .text22, .text23{
+        font-size: 16px;
+    }
+    /*Exciting Card Header -> modal (48px)*/
+    .text24{
+        font-size: 24px;
+    }
+    /*Exciting Card Description (24px)*/
+    .text25{
+        font-size: 12px;
+    }
+    /*(20px 20px 20px 40px)*/
+    .exciting_card_image_container{
+        padding: 10px 10px 10px 20px;
+    }
+    /*Exciting Card Image (108px)*/
+    .exciting_card_image{
+        width: 55px;
+    }
+    /*(20px 40px 20px 20px)*/
+    .exciting_card_content{
+        padding: 10px 20px 10px 10px;
+    }
+    /*Crypso Mobile Image*/
+    .footer_preview_image{
+        width: 90%;
+        top: 60px;
+        right: 80px;
+    }
+    .input_email_id_footer{
+        width: 120px;
+    }
+    .input_email_id{
+        width: 120px;
+    }
+    .input_mobile_number_container{
+        border-radius: 6px 0px 0px 6px;
+    }
+    .button_mobile_number{
+        border-radius: 0px 6px 6px 0px;
+    }
+    .features_grid_image{
+        width: 300px;
+        height: unset;
+        margin: 48px auto;
+    }
+    .mobile_modal_input{
+        font-size: 11px;
+    }
+}
+@media screen and (max-width: 767px) {
+    .absolute_background_3{
+        top: 1200px;
+    }
+    .absolute_background_2{
+        width: 160%;
+        right: -30%;
+        top: 660px;
+        height: 480px;
+    }
+    /*Crypso Mobile Image*/
+    .footer_preview_image{
+        width: 90%;
+        top: 100px;
+        right: 80px;
+    }
+    .features_grid_image{
+        width: 300px;
+        height: unset;
+        margin: 24px auto;
+    }
+    .exciting_card{
+        width: 100%;
+        margin: 18px auto;
+    }
+    .stats_wrapper{
+        margin: 11px auto;
+    }
+    .input_email_id_footer{
+        font-size: 11px;
+    }
+    .input_email_id{
+        font-size: 11px;
+    }
+    .mobile_modal_input{
+        font-size: 11px;
+    }
+}
+@media screen and (max-width: 576px) {
+    .text_spacer_responsive_60px{
+        position: relative;
+        width: 100%;
+        padding: 25px;
+    }
+    .text_spacer_responsive_32px{
+        position: relative;
+        width: 100%;
+        padding: 13px;
+    }
+    .text_spacer_responsive_30px{
+        position: relative;
+        width: 100%;
+        padding: 4px;
+    }
+    .text_spacer_responsive_12px{
+        display: none;
+    }
+    .show_on_mobile_only{
+        display: unset;
+    }
+    .hide_on_mobile_only{
+        display: none;
+    }
+    .mobile_modal_base{
+        display: unset;
+    }
+    .mobile_modal_container{
+        position: absolute;
+        bottom: 0px;
+        width: 100%;
+        border-radius: 28px 28px 0px 0px;
+    }
+    .modal_close_icon{
+        z-index: 101;
+        top: 25px;
+        right: 25px;
+    }
+    .mobile_modal_image_container{
+        width: 100%;
+    }
+    .carousel_text_content{
+        padding: 0px;
+    }
+    .download_form{
+        width: 100%;
+    }
+    .button_mobile_number{
+        height: 45px;
+        border-radius: 0px 6px 6px 0px;
+        background: #5E23DC;
+    }
+    .mobile_modal_button{
+        height: 39px;
+    }
+    .header_logo_image{
+        max-width: 102px;
+    }
+    .exciting_card{
+        width: 100%;
+        margin: 18px auto;
+    }
+    .exciting_card_image_container{
+        padding: 14px 9px 14px 14px;
+    }
+    .exciting_card_content{
+        padding: 14px 14px 14px 9px;
+    }
+    .exciting_card_image{
+        width: 56px;
+    }
+    .sectional_desktop_padding_50{
+        display: none;
+    }
+    .sectional_desktop_padding_100{
+        display: none;
+    }
+    .header_logo_container{
+        height: 30px;
+        margin: 8px 13px 13px 16px;
+    }
+    .header_logo{
+        width: 100%;
+        height: 100% !important;
+    }
+    .download_button{
+        margin: 21px 14px 0px 0px;
+        min-width: 133px;
+        font-size: 12px;
+        height: 42px;
+    }
+    .header_padding{
+        padding: 114px 0px 0px 0px; 
+    }
+    .text1{
+        margin-top: 0px;
+        font-size: 16px;
+        font-family: MetropolisMedium;
+        line-height: 24px;
+        color: #68656E;
+    }
+    .text2{
+        font-size: 24px;
+        line-height: 24px;
+    }
+    .text3{
+        margin: 0px;
+        font-size: 36px;
+        line-height: 36px;
+    }
+    .text4{
+        font-size: 12px;
+        line-height: 18px;
+        text-align: left;
+    }
+    .text5{
+        font-size: 24px;
+        line-height: 36px;
+        text-align: left;
+    }
+    .text6{
+        font-size: 11px;
+    }
+    .text7{
+        display: none;
+    }
+    .text8{
+        display: none;
+    }
+    .text9{
+        display: none;
+    }
+    .text10{
+        display: none;
+    }
+    .text11{
+        font-size: 12px;
+        line-height: 18px;
+        text-align: left;
+    }
+    .text12{
+        font-size: 24px;
+        line-height: 36px;
+        text-align: left;
+    }
+    .text13{
+        font-size: 18px;
+    }
+    .text14{
+        font-size: 11px;
+    }
+    .text15{
+        font-size: 11px;
+    }
+    .text16{
+        display: none;
+    }
+    .text17{
+        font-size: 11px;
+    }
+    .text18{
+        font-size: 11px;
+    }
+    .text19{
+        font-size: 12px;
+    }
+    .text20{
+        font-size: 12px;
+    }
+    .text21{
+        font-size: 32px;
+    }
+    .text22{
+        font-size: 16px;
+    }
+    .text23{
+        font-size: 16px;
+    }
+    .text24{
+        font-size: 25px;
+    }
+    .text25{
+        font-size: 12px;
+    }
+    .stats_card_wrapper{
+        display: block;
+    }
+    .misc_link{
+        color: rgba(255, 255, 255, 0.65);
+    }
+    .absolute_background_11{
+        display: none;
+    }
+    .footer_preview_image_container{
+        width: 100%;
+    }
+    .footer_preview_image{
+        top: 0px;
+        position: relative;
+        width: 100%;
+        margin-bottom: -50px;
+    }
+    .footer_row_wrapper{
+        padding: 0px;
+    }
+    .input_email_id_footer{
+        font-family: MetropolisRegular;
+        font-weight: 500;
+        color: #68656E;
+        font-size: 12px;
+        width: 190px;
+    }
+    .text14{
+        font-family: MetropolisRegular;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 30px;
+        text-align: center;
+        max-width: 90%;
+        margin: 0px auto;
+    }
+    .text13{
+        font-family: MetropolisSemiBold;
+        font-size: 36px;
+        line-height: 44px;
+        text-align: center;
+    }
+    .investor_container{
+        margin: unset;
+        width: 154px;
+        border-radius: 18px;
+    }
+    .investor_wrapper{
+        padding: 15px;
+    }
+    .investors_brands_wrapper{
+        padding: 0px;
+    }
+    .investors_rows_wrapper{
+        padding: 0px;
+    }
+    .carousel_image_container{
+        text-align: center;
+    }
+    .carousel_image{
+        width: 225px;
+        margin: 0px auto;
+    }
+    .exciting_cards_container{
+        padding: 0px;
+    }
+    .exciting_card_image{
+        width: 21px;
+    }
+    .text24{
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .ad_banner_1_wrapper{
+        display: none;
+    }
+    .input_country_flag{
+        width: 21px;
+    }
+    .misc_link{
+        font-size: 11px;
+        padding: 24px 0px 0px 0px;
+    }
+    .input_email_id{
+        width: 200px;
+        font-size: 11px;
+    }
+    .mobile_modal_input{
+        font-size: 11px;
+        width: 150px;
+    }
+    .input_country_code{
+        padding-left: 7px;
+        font-size: 11px;
+        width: 35px;
+    }
+    .carousel_content{
+        padding: 20px;
+    }
+    .features_content{
+        padding: 21px;
+    }
+    .features_header{
+        font-size: 18px;
+        line-height: 27px;
+    }
+    .features_description{
+        font-size: 14px;
+        line-height: 21px;
+        font-family: MetropolisLight;
+        color: #68656E;
+    }
+    .features_grid_image_container{
+        text-align: left;
+    }
+    .features_grid_image{
+        width: 100%;
+        height: unset;
+        margin: 18px auto;
+    }
+    .features_grid_content_container{
+        width: 100%;
+    }
+    .features_grid_content{
+        height: unset;
+    }
+    .stats_rows_wrapper{
+        padding: 28px 0px 0px 0px;
+    }
+    .stats_container{
+        border-radius: 11px;
+        padding: 32px 35px 29px 35px;
+    }
+    .stats_count{
+        font-size: 20px;
+        line-height: 20px;
+        font-family: MetropolisSemiBold;
+        letter-spacing: 0.01em;
+        color: white;
+    }
+    .stats_context{
+        font-size: 14px;
+        line-height: 18px;
+        color: #FAF9FC;
+        font-family: MetropolisLight;
+    }
+    .stats_description{
+        font-size: 13px;
+    }
+    .trust_rows_wrapper{
+        padding: 28px 0px 0px 0px;
+    }
+    .trust_wrapper{
+        margin: 11px auto;
+    }
+    .investors_content{
+        padding: 21px;
+    }
+    .investors_slider_wrapper{
+        display: unset;
+    }
+    .investors_slider_container{
+        position: relative;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        overflow-x: auto;
+    }
+    .investor_card_wrapper{
+        position: relative;
+        padding: 11px;
+    }
+    .investor_card_container{
+        position: relative;
+        width: 263px;
+        padding: 14px;
+        background: white;
+        border-radius: 11px;
+    }
+    .investor_card_image{
+        position: relative;
+        width: 53px;
+        height: 53px;
+    }
+    .investor_card_name{
+        font-family: MetropolisBold;
+        color: #251144;
+        font-size: 18px;
+        margin-top: 11px;
+    }
+    .investor_card_context{
+        font-size: 12px;
+    }
+    .investor_card_description{
+        font-size: 11px;
+    }
+    .investor_brand_wrapper{
+        max-width: 100%;
+    }
+    .investors_brands_container{
+        padding: 32px 0px 32px 0px;
+    }
+    #investor_brand_image_1{
+        height: unset;
+        width: 90%;
+    }
+    #investor_brand_image_2{
+        height: unset;
+        width: 90%;
+    }
+    #investor_brand_image_3{
+        height: unset;
+        width: 90%;
+    }
+    #investor_brand_image_4{
+        height: unset;
+        width: 90%;
+    }
+    .investor_brand_description_container{
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .investor_image{
+        width: 63px;
+        padding: 0px 0px 18px 0px;
+    }
+    .investor_name{
+        font-size: 16px;
+        margin: 0px;
+    }
+    .investor_company_position{
+        margin: 4px 0px 12px 0px;
+    }
+    .investor_company_logo{
+        height: 20px;
+    }
+    .trust_image{
+        width: 56px;
+    }
+    .trust_context{
+        font-size: 18px;
+    }
+    .trust_description{
+        font-size: 13px;
+    }
+    .footer_wrapper{
+        padding: unset;
+    }
+    .footer_summary{
+        padding: unset;
+        overflow: hidden;
+    }
+    .footer_rows_wrapper{
+
+    }
+    .footer_container{
+        padding: 0px;
+    }
+    .footer_download_button{
+        background: #5E23DC;
+        border: 0px;
+        border-radius: 11px;
+        color: white;
+        font-family: MetropolisBold;
+        padding: 12px;
+        font-size: 12px;
+        margin-top: 14px;
+    }
+    .footer_link_images{
+        width: 21px;
+        padding: 28px 4px 28px 4px;
+    }
+    .footer_links_wrapper{
+        border-radius: 0px;
+    }
+    .input_mobile_number_container{
+        border-radius: 6px 0px 0px 6px;
+    }
+    .absolute_background_1{
+        width: 166px;
+        height: 166px;
+    }
+    .absolute_background_2{
+        display: none;
+    }
+    .absolute_background_3{
+        top: 1280px;
+        height: 241px;
+    }
+    .absolute_background_4{
+        top: 320px;
+        left: unset;
+        right: -28px;
+        width: 166px;
+        height: 166px;
+    }
+    .absolute_background_5{
+        height: 166px;
+        top: 812px;
+    }
+    .absolute_background_6{
+        height: 190px;
+        top: 2660px;
+    }
+    .absolute_background_7{
+        top: 3452px;
+        width: 100%;
+        height: 190px;
+    }
+    .absolute_background_8{
+        top: 4480px;
+        width: 100%;
+        height: 190px;
+    }
+    .absolute_background_9{
+
+    }
+    
+}
+@media screen and (max-width: 411px){
+    .carousel_text_content{
+        width: 100%;
+    }
+    .input_email_id{
+        width: 160px;
+    }
+    .input_email_id_footer{
+        width: 142px;
+    }
+    .download_form{
+        margin: 0px auto;
+    }
+    .exciting_card_container{
+        padding: 0px;
+    }
+    .exciting_card_mobile{
+        width: 140px;
+    }
+    #investor_brand_image_1{
+        width: 80%;
+    }
+    #investor_brand_image_2{
+        width: 80%;
+    }
+    #investor_brand_image_3{
+        width: 80%;
+    }
+    #investor_brand_image_4{
+        width: 80%;
+    }
+    .investor_wrapper{
+        padding: 12px;
+    }
+    .investor_container{
+        width: 135px;
+    }
+    .text24{
+        font-size: 12px;
+    }
+    .text25{
+        font-size: 12px;
+    }
+}
